@@ -1,0 +1,7 @@
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\bin\Debug\paaritupaaris.exe.config
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\bin\Debug\paaritupaaris.exe
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\bin\Debug\paaritupaaris.pdb
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\obj\Debug\paaritupaaris.csprojResolveAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\obj\Debug\paaritupaaris.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\obj\Debug\paaritupaaris.exe
+C:\Users\Kasutaja\Desktop\github\kt c#\paaritupaaris\paaritupaaris\obj\Debug\paaritupaaris.pdb
